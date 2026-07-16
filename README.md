@@ -31,7 +31,7 @@ The code in this repository demonstrates file mutation, steganography, and self-
 
 Watch the full demonstration on YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/Vm_36JfLl-U/0.jpg)](https://youtube.com/watch?v=Vm_36JfLl-U)
+[![Watch the video](https://img.youtube.com/vi/Vm_36JfLl-U/mqdefault.jpg)](https://youtube.com/watch?v=Vm_36JfLl-U)
 
 ---
 
