@@ -337,7 +337,7 @@ Join our community to discuss this project and cybersecurity topics:
 
 ## 📺 **WATCH THE VIDEO**
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/https://youtu.be/Vm_36JfLl-U/0.jpg)](https://youtube.com/watch?v=https://youtu.be/Vm_36JfLl-U)
 
 ---
 
@@ -345,7 +345,7 @@ Join our community to discuss this project and cybersecurity topics:
 
 If you found this educational or interesting, please **star** the repository!
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/Python-Mutating-Virus-Demo)](https://github.com/YOUR_USERNAME/Python-Mutating-Virus-Demo/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/MrHackerCharlie/Mutating-Viruses)](https://github.com/MrHackerCharlie/Mutating-Viruses/stargazers)
 
 ---
 
