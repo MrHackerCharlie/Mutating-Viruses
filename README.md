@@ -260,11 +260,10 @@ python mutating_virus.py
 | SHA-256 Mutation | ✅ | ✅ | ✅ |
 | Self-Replication | ❌ | ✅ | ✅ |
 | Image Steganography | ❌ | ✅ | ✅ |
-| Self-Deletion | ❌ | ✅ | ✅ |
+| Self-Deletion | ❌ | ❌ | ✅ |
 | Recovery Engine | ❌ | ✅ | ✅ |
 | Multi-Node | ❌ | ✅ | ❌ |
 | Windows Support | ❌ | ❌ | ✅ |
-| No-Image Support | ❌ | ❌ | ✅ |
 
 ---
 
