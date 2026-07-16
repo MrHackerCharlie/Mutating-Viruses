@@ -2,7 +2,7 @@
 
 **⚠️ EDUCATIONAL PURPOSE ONLY - COMPLETELY SAFE DEMONSTRATION**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red)](https://youtube.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red)](https://youtu.be/Vm_36JfLl-U)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-blue)](https://discord.gg/rbCmYGg2rd)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-black)](https://x.com/MrHackerCharlie)
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://mrhackercharlie.unaux.com)
